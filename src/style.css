@@ -98,7 +98,7 @@ input:focus {
   display: flex;
   align-self: center;
   justify-content: center;
-  background-color: #ece3e3;
+  background-color: #d7cccc;
   padding: 20px;
   width: 100%;
 }
